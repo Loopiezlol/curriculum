@@ -5,7 +5,7 @@ description: Give yourself an edge by learning how to use git like a pro. Master
 core: false
 
 sections:
-  '0':
+  '0': 
     - getting-started
     - commits
     - fundamentals
