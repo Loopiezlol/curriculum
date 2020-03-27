@@ -1,8 +1,8 @@
 name: Essentials
 
-description: Give yourself an edge by learning how to use git like a pro. Master all the essentials and never find yourself confused with version control ever again.
+description: Give yourself an edge by learning how to use git like a pro. Master all the essentials and never find yourself confused with version control ever again.    
 
-core: true
+core: false
 
 sections:
   '0':
